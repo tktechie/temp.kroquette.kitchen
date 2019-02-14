@@ -23,7 +23,7 @@ twitter_username: tktechie
 
 
 # Build settings
-markdown: kramdowns
+markdown: kramdown
 remote_theme: broccolini/swiss
 # plugins:
 #   - jekyll-feed
